@@ -9,6 +9,6 @@
 }
 .container form {
     display: flex;
-    justify-content: space;
+    justify-content: center;
     flex-direction: row;
 }
