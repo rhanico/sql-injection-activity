@@ -1,0 +1,14 @@
+* {
+    text-align: center;
+    background-color: black;
+    color: whitesmoke;
+}
+
+.container {
+    margin: 10rem;
+}
+.container form {
+    display: flex;
+    justify-content: space;
+    flex-direction: row;
+}
